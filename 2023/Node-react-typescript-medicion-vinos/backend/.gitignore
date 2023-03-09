@@ -1,2 +1,4 @@
 node_modules
 index.js
+# Keep environment variables out of version control
+.env
