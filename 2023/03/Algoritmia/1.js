@@ -1,20 +1,3 @@
-// function oddOrEvenScale(integer) {
-//   // Determine odd or even
-//   let integerStatus;
-//   Number.isInteger(integer / 2)
-//     ? (integerStatus = "even")
-//     : (integerStatus = "odd");
-
-//   if (integerStatus == "even") {
-//   }
-//   if (integerStatus == "odd") {
-//   }
-// }
-
-// function oddOrEven() {}
-
-// function descSequenceUntilExhaust() {}
-
 function funcionUno(integer) {
   Number.isInteger(integer / 2)
     ? console.log("Es par")
